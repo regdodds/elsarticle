@@ -1,0 +1,120 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{probst19}
+P.~Probst, A.-L. Boulesteix, B.~Bischl, Tunability: Importance of
+  hyperparameters of machine learning algorithms, Journal of Machine Learning
+  Research 20~(1) (2019) 1--32.
+
+\bibitem{chang18}
+Y.-Y. Chang, F.-Y. Sun, Y.-H. Wu, S.-D. Lin, A memory-network based solution
+  for multivariate time-series forecasting, arXiv:1809.02105 [cs.LG] (2018)
+  1--8.
+
+\bibitem{sengupta96}
+J.~K. Sengupta, Theory of systems efficiency: models and applications---a
+  review, International Journal of Systems Science 27~(3) (1996) 179--215.
+
+\bibitem{hossin15}
+M.~Hossin, M.~N. Sulaiman, A review on evaluation metrics for data
+  classification evaluations, Int. Journal of Data Mining \& Knowledge
+  Management Processing 5~(2) (2015) 1--12.
+
+\bibitem{kamble19}
+M.~Kamble, S.~Ghosh, A.~Singh, {NWP} models combined with ensemble models for
+  hourly estimation of global solar irradiance, in: S.~Tiwari, K.~K. Mishra,
+  N.~Singh, E.~Suryani, A.~K. Ng (Eds.), Proceedings of International
+  Conference on Big Data, Machine Learning and their Applications, Prayagraj,
+  India, 2019, pp. 13--23.
+
+\bibitem{azlan19}
+A.~Azlan, Y.~Yusof, M.~F.~M. Mohsin, Determining the impact of window length on
+  time series forecasting using deep learning, International Journal of
+  Advanced Computer Research 9~(44) (2019) 260--267.
+
+\bibitem{hinton12}
+G.~E. Hinton, N.~Srivastava, A.~Krizhevsky, I.~Sutskever, R.~R. Salakhutdinov,
+  Improving neural networks by preventing co-adaptation of feature detectors,
+  arXiv:1207.0580v1 [cs.NE] (2012) 1--18.
+
+\bibitem{srivastava14}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, R.~Salakhutdinov,
+  Dropout: A simple way to prevent neural networks from overfitting, Journal of
+  Machine Learning Research 15 (2014) 1929--1958.
+
+\bibitem{cho14}
+K.~Cho, B.~{van Merrienboer}, D.~Bahdanau, Y.~Bengio, On the properties of
+  neural machine translation: Encoder-decoder approaches, arXiv:1409.1259
+  [cs.CL] (2014) 1--9.
+
+\bibitem{li19}
+A.-S. Mihaita, H.~Li, Z.~He, M.-A. Rizoiu, Motorway traffic flow prediction
+  using advanced deep learning, arXiv:1907.06356v3 [cs.LG] (2018) 1--10.
+
+\bibitem{glenski19}
+M.~Glenski, T.~Weninger, V.~Volkova, Improved forecasting of cryptocurrency
+  price using social signals, arXiv:1907.00558 [q-fin.ST] (2019) 1--11.
+
+\bibitem{chalvatzisa19}
+C.~Chalvatzisa, D.~Hristu-Varsakelis, High-performance stock index trading:
+  making effective use of a deep long short-term memory network,
+  arXiv:1902.03125 [q-fin.ST] (2019) 1--30.
+
+\bibitem{sardelicha18}
+M.~Sardelicha, S.~Manandhar, Multimodal deep learning for short-term stock
+  volatility prediction, arXiv:1812.10479 [q-fin.ST] (2018) 1--40.
+
+\bibitem{huang19}
+S.~Huang, D.~Wang, X.~Wu, A.~Tang, {DSAN}et: {D}ual self-attention network for
+  multivariate time series forecasting, in: CIKM ’19, Beijing, 2019, pp.
+  2129--2132.
+
+\bibitem{makinen18}
+M.~M{\"{a}}kinen, J.~Kanniainen, M.~Gabbouj, A.~Iosifidis, Forecasting of jump
+  arrivals in stock prices: New attention-based network architecture using
+  limit order book data, arXiv:1810.10845 [q-fin.TR] (2018) 1--29.
+
+\newpage
+\bibitem{liu18}
+J.~Liu, T.~Zhang, G.~Han, Y.~Gou, {TD-LSTM}: {T}emporal dependence-based {LSTM}
+  networks for marine temperature prediction, Sensors 18~(3697) (2018) 1--13.
+
+\bibitem{maggiolo19}
+M.~Maggiolo, G.~Spanakis, Autoregressive convolutional recurrent neural network
+  for univariate and multivariate time series prediction, arXiv:1903.02540v1
+  [cs.LG] (2019) 1--8.
+
+\bibitem{qin19}
+H.~Qin, Comparison of deep learning models on time series forecasting: A case
+  study of dissolved oxygen prediction, arXiv:1911.08414 [eess.SP] (2019)
+  1--16.
+
+\bibitem{bai19}
+S.~Bai, J.~Z. Kolter, V.~Koltun, Deep equilibrium models, in: 33rd Conference
+  on Neural Information Processing Systems (NeurIPS 2019), Vancouver, 2019, pp.
+  1--16.
+
+\bibitem{chai14}
+T.-F. Chai, R.~R. Draxler, Root mean square error ({RMSE}) or mean absolute
+  error ({MAE})?---arguments against avoiding {RMSE} in the literature,
+  Geoscientific Model Development 7 (2014) 1247--1250.
+
+\bibitem{willmott09}
+C.~J. Willmott, K.~Matsuura, S.~M. Robeson, Ambiguities inherent in
+  sums-of-squares-based error statistics, Atmospheric Environment 43 (2009)
+  749--752.
+
+\bibitem{schuster97}
+M.~Schuster, K.~K. Paliwal, Bidirectional re-current neural networks, IEEE
+  Transactions on Signal Processing no. 45 (1997) 2673--2681.
+
+\bibitem{vaswani17}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez, {\L
+  ukasz}.~Kaiser, I.~Polosukhin, Attention is all you need, in: 31st Conference
+  on Neural Information Processing Systems, Long Beach, CA, 2017, pp. 1--11.
+
+\end{thebibliography}
